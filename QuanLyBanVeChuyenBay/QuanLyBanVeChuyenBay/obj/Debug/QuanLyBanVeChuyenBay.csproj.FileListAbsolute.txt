@@ -1,0 +1,87 @@
+C:\Users\dkhoa\OneDrive\Tài liệu\GitHub\NMCNPM-N13\QuanLyBanVeChuyenBay\QuanLyBanVeChuyenBay\bin\Debug\QuanLyBanVeChuyenBay.exe.config
+C:\Users\dkhoa\OneDrive\Tài liệu\GitHub\NMCNPM-N13\QuanLyBanVeChuyenBay\QuanLyBanVeChuyenBay\bin\Debug\QuanLyBanVeChuyenBay.exe
+C:\Users\dkhoa\OneDrive\Tài liệu\GitHub\NMCNPM-N13\QuanLyBanVeChuyenBay\QuanLyBanVeChuyenBay\bin\Debug\QuanLyBanVeChuyenBay.pdb
+C:\Users\dkhoa\OneDrive\Tài liệu\GitHub\NMCNPM-N13\QuanLyBanVeChuyenBay\QuanLyBanVeChuyenBay\obj\Debug\QuanLyBanVeChuyenBay.Properties.Resources.resources
+C:\Users\dkhoa\OneDrive\Tài liệu\GitHub\NMCNPM-N13\QuanLyBanVeChuyenBay\QuanLyBanVeChuyenBay\obj\Debug\QuanLyBanVeChuyenBay.csproj.GenerateResource.cache
+C:\Users\dkhoa\OneDrive\Tài liệu\GitHub\NMCNPM-N13\QuanLyBanVeChuyenBay\QuanLyBanVeChuyenBay\obj\Debug\QuanLyBanVeChuyenBay.csproj.CoreCompileInputs.cache
+C:\Users\dkhoa\OneDrive\Tài liệu\GitHub\NMCNPM-N13\QuanLyBanVeChuyenBay\QuanLyBanVeChuyenBay\obj\Debug\QuanLyBanVeChuyenBay.exe
+C:\Users\dkhoa\OneDrive\Tài liệu\GitHub\NMCNPM-N13\QuanLyBanVeChuyenBay\QuanLyBanVeChuyenBay\obj\Debug\QuanLyBanVeChuyenBay.pdb
+C:\Users\dkhoa\OneDrive\Tài liệu\GitHub\NMCNPM-N13\QuanLyBanVeChuyenBay\QuanLyBanVeChuyenBay\obj\Debug\QuanLyBanVeChuyenBay.FormMain.resources
+C:\Users\dkhoa\OneDrive\Tài liệu\GitHub\NMCNPM-N13\QuanLyBanVeChuyenBay\QuanLyBanVeChuyenBay\obj\Debug\QuanLyBanVeChuyenBay.Forms.FrmDatCho.resources
+C:\Users\dkhoa\OneDrive\Tài liệu\GitHub\NMCNPM-N13\QuanLyBanVeChuyenBay\QuanLyBanVeChuyenBay\obj\Debug\QuanLyBanVeChuyenBay.Forms.FrmQuyDinh.resources
+C:\Users\dkhoa\OneDrive\Tài liệu\GitHub\NMCNPM-N13\QuanLyBanVeChuyenBay\QuanLyBanVeChuyenBay\obj\Debug\QuanLyBanVeChuyenBay.Forms.FrmTraCuu.resources
+C:\Users\dkhoa\OneDrive\Tài liệu\GitHub\NMCNPM-N13\QuanLyBanVeChuyenBay\QuanLyBanVeChuyenBay\obj\Debug\QuanLyBanVeChuyenBay.Forms.FrmLichChuyenBay.resources
+C:\Users\dkhoa\OneDrive\Tài liệu\GitHub\NMCNPM-N13\QuanLyBanVeChuyenBay\QuanLyBanVeChuyenBay\obj\Debug\QuanLyBanVeChuyenBay.Forms.FrmBaoCao.resources
+C:\Users\dkhoa\OneDrive\Tài liệu\GitHub\NMCNPM-N13\QuanLyBanVeChuyenBay\QuanLyBanVeChuyenBay\obj\Debug\QuanLyBanVeChuyenBay.Forms.FrmLogin.resources
+C:\Users\dkhoa\OneDrive\Tài liệu\GitHub\NMCNPM-N13\QuanLyBanVeChuyenBay\QuanLyBanVeChuyenBay\bin\Debug\CircularProgressBar.dll
+C:\Users\dkhoa\OneDrive\Tài liệu\GitHub\NMCNPM-N13\QuanLyBanVeChuyenBay\QuanLyBanVeChuyenBay\bin\Debug\WinFormAnimation.dll
+C:\Users\dkhoa\OneDrive\Tài liệu\GitHub\NMCNPM-N13\QuanLyBanVeChuyenBay\QuanLyBanVeChuyenBay\bin\Debug\CircularProgressBar.xml
+C:\Users\dkhoa\OneDrive\Tài liệu\GitHub\NMCNPM-N13\QuanLyBanVeChuyenBay\QuanLyBanVeChuyenBay\bin\Debug\WinFormAnimation.xml
+C:\Users\dkhoa\OneDrive\Tài liệu\GitHub\NMCNPM-N13\QuanLyBanVeChuyenBay\QuanLyBanVeChuyenBay\obj\Debug\QuanLyBanVeChuyenBay.Forms.FrmLoading.resources
+C:\Users\dkhoa\OneDrive\Tài liệu\GitHub\NMCNPM-N13\QuanLyBanVeChuyenBay\QuanLyBanVeChuyenBay\obj\Debug\QuanLyBanVeChuyenBay.csproj.CopyComplete
+C:\Users\dkhoa\OneDrive\Tài liệu\GitHub\NMCNPM-N13\QuanLyBanVeChuyenBay\QuanLyBanVeChuyenBay\obj\Debug\QuanLyBanVeChuyenBay.Forms.FrmQuanLyNhanSu.resources
+C:\Users\dkhoa\OneDrive\Tài liệu\GitHub\NMCNPM-N13\QuanLyBanVeChuyenBay\QuanLyBanVeChuyenBay\obj\Debug\QuanLyBanVeChuyenBay.Forms.FrmThemNhanVien.resources
+C:\Users\dkhoa\OneDrive\Tài liệu\GitHub\NMCNPM-N13\QuanLyBanVeChuyenBay\QuanLyBanVeChuyenBay\obj\Debug\QuanLyBanVeChuyenBay.Forms.FrmCalendar.resources
+C:\Users\dkhoa\OneDrive\Tài liệu\GitHub\NMCNPM-N13\QuanLyBanVeChuyenBay\QuanLyBanVeChuyenBay\obj\Debug\QuanLyBanVeChuyenBay.csproj.AssemblyReference.cache
+C:\Users\dkhoa\OneDrive\Tài liệu\GitHub\NMCNPM-N13\QuanLyBanVeChuyenBay\QuanLyBanVeChuyenBay\obj\Debug\QuanLyBanVeChuyenBay.Forms.FrmSuaThongTinNhanVien.resources
+C:\Users\dkhoa\OneDrive\Tài liệu\GitHub\NMCNPM-N13\QuanLyBanVeChuyenBay\QuanLyBanVeChuyenBay\obj\Debug\QuanLyBanVeChuyenBay.Forms.FrmThongTinDatVe.resources
+C:\Users\dkhoa\OneDrive\Tài liệu\GitHub\NMCNPM-N13\QuanLyBanVeChuyenBay\QuanLyBanVeChuyenBay\obj\Debug\QuanLyBanVeChuyenBay.Forms.FrmDoiMatKhau.resources
+C:\Users\dkhoa\OneDrive\Tài liệu\GitHub\NMCNPM-N13\QuanLyBanVeChuyenBay\QuanLyBanVeChuyenBay\obj\Debug\QuanLyBanVeChuyenBay.Forms.FrmThemSanBayTrungGian.resources
+D:\NMCNPM\NMCNPM-N13-main\QuanLyBanVeChuyenBay\QuanLyBanVeChuyenBay\bin\Debug\QuanLyBanVeChuyenBay.exe.config
+D:\NMCNPM\NMCNPM-N13-main\QuanLyBanVeChuyenBay\QuanLyBanVeChuyenBay\bin\Debug\QuanLyBanVeChuyenBay.exe
+D:\NMCNPM\NMCNPM-N13-main\QuanLyBanVeChuyenBay\QuanLyBanVeChuyenBay\bin\Debug\QuanLyBanVeChuyenBay.pdb
+D:\NMCNPM\NMCNPM-N13-main\QuanLyBanVeChuyenBay\QuanLyBanVeChuyenBay\bin\Debug\CircularProgressBar.dll
+D:\NMCNPM\NMCNPM-N13-main\QuanLyBanVeChuyenBay\QuanLyBanVeChuyenBay\bin\Debug\WinFormAnimation.dll
+D:\NMCNPM\NMCNPM-N13-main\QuanLyBanVeChuyenBay\QuanLyBanVeChuyenBay\bin\Debug\CircularProgressBar.xml
+D:\NMCNPM\NMCNPM-N13-main\QuanLyBanVeChuyenBay\QuanLyBanVeChuyenBay\bin\Debug\WinFormAnimation.xml
+D:\NMCNPM\NMCNPM-N13-main\QuanLyBanVeChuyenBay\QuanLyBanVeChuyenBay\obj\Debug\QuanLyBanVeChuyenBay.csproj.AssemblyReference.cache
+D:\NMCNPM\NMCNPM-N13-main\QuanLyBanVeChuyenBay\QuanLyBanVeChuyenBay\obj\Debug\QuanLyBanVeChuyenBay.FormMain.resources
+D:\NMCNPM\NMCNPM-N13-main\QuanLyBanVeChuyenBay\QuanLyBanVeChuyenBay\obj\Debug\QuanLyBanVeChuyenBay.Forms.FrmBaoCao.resources
+D:\NMCNPM\NMCNPM-N13-main\QuanLyBanVeChuyenBay\QuanLyBanVeChuyenBay\obj\Debug\QuanLyBanVeChuyenBay.Forms.FrmCalendar.resources
+D:\NMCNPM\NMCNPM-N13-main\QuanLyBanVeChuyenBay\QuanLyBanVeChuyenBay\obj\Debug\QuanLyBanVeChuyenBay.Forms.FrmDoiMatKhau.resources
+D:\NMCNPM\NMCNPM-N13-main\QuanLyBanVeChuyenBay\QuanLyBanVeChuyenBay\obj\Debug\QuanLyBanVeChuyenBay.Forms.FrmLoading.resources
+D:\NMCNPM\NMCNPM-N13-main\QuanLyBanVeChuyenBay\QuanLyBanVeChuyenBay\obj\Debug\QuanLyBanVeChuyenBay.Forms.FrmLogin.resources
+D:\NMCNPM\NMCNPM-N13-main\QuanLyBanVeChuyenBay\QuanLyBanVeChuyenBay\obj\Debug\QuanLyBanVeChuyenBay.Forms.FrmQuanLyNhanSu.resources
+D:\NMCNPM\NMCNPM-N13-main\QuanLyBanVeChuyenBay\QuanLyBanVeChuyenBay\obj\Debug\QuanLyBanVeChuyenBay.Forms.FrmQuyDinh.resources
+D:\NMCNPM\NMCNPM-N13-main\QuanLyBanVeChuyenBay\QuanLyBanVeChuyenBay\obj\Debug\QuanLyBanVeChuyenBay.Forms.FrmLichChuyenBay.resources
+D:\NMCNPM\NMCNPM-N13-main\QuanLyBanVeChuyenBay\QuanLyBanVeChuyenBay\obj\Debug\QuanLyBanVeChuyenBay.Forms.FrmDatCho.resources
+D:\NMCNPM\NMCNPM-N13-main\QuanLyBanVeChuyenBay\QuanLyBanVeChuyenBay\obj\Debug\QuanLyBanVeChuyenBay.Forms.FrmSuaThongTinNhanVien.resources
+D:\NMCNPM\NMCNPM-N13-main\QuanLyBanVeChuyenBay\QuanLyBanVeChuyenBay\obj\Debug\QuanLyBanVeChuyenBay.Forms.FrmThemNhanVien.resources
+D:\NMCNPM\NMCNPM-N13-main\QuanLyBanVeChuyenBay\QuanLyBanVeChuyenBay\obj\Debug\QuanLyBanVeChuyenBay.Forms.FrmThemSanBayTrungGian.resources
+D:\NMCNPM\NMCNPM-N13-main\QuanLyBanVeChuyenBay\QuanLyBanVeChuyenBay\obj\Debug\QuanLyBanVeChuyenBay.Forms.FrmThongTinDatVe.resources
+D:\NMCNPM\NMCNPM-N13-main\QuanLyBanVeChuyenBay\QuanLyBanVeChuyenBay\obj\Debug\QuanLyBanVeChuyenBay.Forms.FrmTraCuu.resources
+D:\NMCNPM\NMCNPM-N13-main\QuanLyBanVeChuyenBay\QuanLyBanVeChuyenBay\obj\Debug\QuanLyBanVeChuyenBay.Properties.Resources.resources
+D:\NMCNPM\NMCNPM-N13-main\QuanLyBanVeChuyenBay\QuanLyBanVeChuyenBay\obj\Debug\QuanLyBanVeChuyenBay.csproj.GenerateResource.cache
+D:\NMCNPM\NMCNPM-N13-main\QuanLyBanVeChuyenBay\QuanLyBanVeChuyenBay\obj\Debug\QuanLyBanVeChuyenBay.csproj.CoreCompileInputs.cache
+D:\NMCNPM\NMCNPM-N13-main\QuanLyBanVeChuyenBay\QuanLyBanVeChuyenBay\obj\Debug\QuanLyBanVeChuyenBay.csproj.CopyComplete
+D:\NMCNPM\NMCNPM-N13-main\QuanLyBanVeChuyenBay\QuanLyBanVeChuyenBay\obj\Debug\QuanLyBanVeChuyenBay.exe
+D:\NMCNPM\NMCNPM-N13-main\QuanLyBanVeChuyenBay\QuanLyBanVeChuyenBay\obj\Debug\QuanLyBanVeChuyenBay.pdb
+D:\NMCNPM\NMCNPM-N13-main-1\QuanLyBanVeChuyenBay\QuanLyBanVeChuyenBay\bin\Debug\QuanLyBanVeChuyenBay.exe.config
+D:\NMCNPM\NMCNPM-N13-main-1\QuanLyBanVeChuyenBay\QuanLyBanVeChuyenBay\bin\Debug\QuanLyBanVeChuyenBay.exe
+D:\NMCNPM\NMCNPM-N13-main-1\QuanLyBanVeChuyenBay\QuanLyBanVeChuyenBay\bin\Debug\QuanLyBanVeChuyenBay.pdb
+D:\NMCNPM\NMCNPM-N13-main-1\QuanLyBanVeChuyenBay\QuanLyBanVeChuyenBay\bin\Debug\CircularProgressBar.dll
+D:\NMCNPM\NMCNPM-N13-main-1\QuanLyBanVeChuyenBay\QuanLyBanVeChuyenBay\bin\Debug\WinFormAnimation.dll
+D:\NMCNPM\NMCNPM-N13-main-1\QuanLyBanVeChuyenBay\QuanLyBanVeChuyenBay\bin\Debug\CircularProgressBar.xml
+D:\NMCNPM\NMCNPM-N13-main-1\QuanLyBanVeChuyenBay\QuanLyBanVeChuyenBay\bin\Debug\WinFormAnimation.xml
+D:\NMCNPM\NMCNPM-N13-main-1\QuanLyBanVeChuyenBay\QuanLyBanVeChuyenBay\obj\Debug\QuanLyBanVeChuyenBay.csproj.AssemblyReference.cache
+D:\NMCNPM\NMCNPM-N13-main-1\QuanLyBanVeChuyenBay\QuanLyBanVeChuyenBay\obj\Debug\QuanLyBanVeChuyenBay.FormMain.resources
+D:\NMCNPM\NMCNPM-N13-main-1\QuanLyBanVeChuyenBay\QuanLyBanVeChuyenBay\obj\Debug\QuanLyBanVeChuyenBay.Forms.FrmBaoCao.resources
+D:\NMCNPM\NMCNPM-N13-main-1\QuanLyBanVeChuyenBay\QuanLyBanVeChuyenBay\obj\Debug\QuanLyBanVeChuyenBay.Forms.FrmCalendar.resources
+D:\NMCNPM\NMCNPM-N13-main-1\QuanLyBanVeChuyenBay\QuanLyBanVeChuyenBay\obj\Debug\QuanLyBanVeChuyenBay.Forms.FrmDoiMatKhau.resources
+D:\NMCNPM\NMCNPM-N13-main-1\QuanLyBanVeChuyenBay\QuanLyBanVeChuyenBay\obj\Debug\QuanLyBanVeChuyenBay.Forms.FrmLoading.resources
+D:\NMCNPM\NMCNPM-N13-main-1\QuanLyBanVeChuyenBay\QuanLyBanVeChuyenBay\obj\Debug\QuanLyBanVeChuyenBay.Forms.FrmLogin.resources
+D:\NMCNPM\NMCNPM-N13-main-1\QuanLyBanVeChuyenBay\QuanLyBanVeChuyenBay\obj\Debug\QuanLyBanVeChuyenBay.Forms.FrmQuanLyNhanSu.resources
+D:\NMCNPM\NMCNPM-N13-main-1\QuanLyBanVeChuyenBay\QuanLyBanVeChuyenBay\obj\Debug\QuanLyBanVeChuyenBay.Forms.FrmQuyDinh.resources
+D:\NMCNPM\NMCNPM-N13-main-1\QuanLyBanVeChuyenBay\QuanLyBanVeChuyenBay\obj\Debug\QuanLyBanVeChuyenBay.Forms.FrmLichChuyenBay.resources
+D:\NMCNPM\NMCNPM-N13-main-1\QuanLyBanVeChuyenBay\QuanLyBanVeChuyenBay\obj\Debug\QuanLyBanVeChuyenBay.Forms.FrmDatCho.resources
+D:\NMCNPM\NMCNPM-N13-main-1\QuanLyBanVeChuyenBay\QuanLyBanVeChuyenBay\obj\Debug\QuanLyBanVeChuyenBay.Forms.FrmSuaThongTinNhanVien.resources
+D:\NMCNPM\NMCNPM-N13-main-1\QuanLyBanVeChuyenBay\QuanLyBanVeChuyenBay\obj\Debug\QuanLyBanVeChuyenBay.Forms.FrmThemNhanVien.resources
+D:\NMCNPM\NMCNPM-N13-main-1\QuanLyBanVeChuyenBay\QuanLyBanVeChuyenBay\obj\Debug\QuanLyBanVeChuyenBay.Forms.FrmThemSanBayTrungGian.resources
+D:\NMCNPM\NMCNPM-N13-main-1\QuanLyBanVeChuyenBay\QuanLyBanVeChuyenBay\obj\Debug\QuanLyBanVeChuyenBay.Forms.FrmThongTinDatVe.resources
+D:\NMCNPM\NMCNPM-N13-main-1\QuanLyBanVeChuyenBay\QuanLyBanVeChuyenBay\obj\Debug\QuanLyBanVeChuyenBay.Forms.FrmTraCuu.resources
+D:\NMCNPM\NMCNPM-N13-main-1\QuanLyBanVeChuyenBay\QuanLyBanVeChuyenBay\obj\Debug\QuanLyBanVeChuyenBay.Properties.Resources.resources
+D:\NMCNPM\NMCNPM-N13-main-1\QuanLyBanVeChuyenBay\QuanLyBanVeChuyenBay\obj\Debug\QuanLyBanVeChuyenBay.csproj.GenerateResource.cache
+D:\NMCNPM\NMCNPM-N13-main-1\QuanLyBanVeChuyenBay\QuanLyBanVeChuyenBay\obj\Debug\QuanLyBanVeChuyenBay.csproj.CoreCompileInputs.cache
+D:\NMCNPM\NMCNPM-N13-main-1\QuanLyBanVeChuyenBay\QuanLyBanVeChuyenBay\obj\Debug\QuanLyBanVeChuyenBay.csproj.CopyComplete
+D:\NMCNPM\NMCNPM-N13-main-1\QuanLyBanVeChuyenBay\QuanLyBanVeChuyenBay\obj\Debug\QuanLyBanVeChuyenBay.exe
+D:\NMCNPM\NMCNPM-N13-main-1\QuanLyBanVeChuyenBay\QuanLyBanVeChuyenBay\obj\Debug\QuanLyBanVeChuyenBay.pdb

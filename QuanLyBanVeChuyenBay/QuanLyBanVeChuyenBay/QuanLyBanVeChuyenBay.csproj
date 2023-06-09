@@ -1,0 +1,528 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E82E3114-F5FB-4286-9BAE-44341DD80320}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>QuanLyBanVeChuyenBay</RootNamespace>
+    <AssemblyName>QuanLyBanVeChuyenBay</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CircularProgressBar, Version=2.2.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\CircularProgressBar.2.2.0.0\lib\net35-Client\CircularProgressBar.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WinFormAnimation, Version=1.3.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\WinFormAnimation.1.3.0.0\lib\net35-Client\WinFormAnimation.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FormMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMain.Designer.cs">
+      <DependentUpon>FormMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmBaoCao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmBaoCao.Designer.cs">
+      <DependentUpon>FrmBaoCao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmCalendar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmCalendar.Designer.cs">
+      <DependentUpon>FrmCalendar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmDoiMatKhau.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmDoiMatKhau.Designer.cs">
+      <DependentUpon>FrmDoiMatKhau.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmLoading.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmLoading.Designer.cs">
+      <DependentUpon>FrmLoading.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmLogin.Designer.cs">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmQuanLyNhanSu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmQuanLyNhanSu.Designer.cs">
+      <DependentUpon>FrmQuanLyNhanSu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmQuyDinh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmQuyDinh.Designer.cs">
+      <DependentUpon>FrmQuyDinh.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmLichChuyenBay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmLichChuyenBay.Designer.cs">
+      <DependentUpon>FrmLichChuyenBay.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmDatCho.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmDatCho.Designer.cs">
+      <DependentUpon>FrmDatCho.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmSuaThongTinNhanVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmSuaThongTinNhanVien.Designer.cs">
+      <DependentUpon>FrmSuaThongTinNhanVien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmThemNhanVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmThemNhanVien.Designer.cs">
+      <DependentUpon>FrmThemNhanVien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmThemSanBayTrungGian.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmThemSanBayTrungGian.Designer.cs">
+      <DependentUpon>FrmThemSanBayTrungGian.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmThongTinDatVe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmThongTinDatVe.Designer.cs">
+      <DependentUpon>FrmThongTinDatVe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmTraCuu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmTraCuu.Designer.cs">
+      <DependentUpon>FrmTraCuu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KhachHang.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="QUANLYBANVECHUYENBAYDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QUANLYBANVECHUYENBAYDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="QUANLYBANVECHUYENBAYDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QUANLYBANVECHUYENBAYDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="QUANLYBANVECHUYENBAYDataSet2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QUANLYBANVECHUYENBAYDataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="QUANLYBANVECHUYENBAYDataSet3.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QUANLYBANVECHUYENBAYDataSet3.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="QUANLYBANVECHUYENBAYDataSet4.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QUANLYBANVECHUYENBAYDataSet4.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="QUANLYBANVECHUYENBAYDataSet5.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QUANLYBANVECHUYENBAYDataSet5.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="QUANLYBANVECHUYENBAYDataSet6.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QUANLYBANVECHUYENBAYDataSet6.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="QUANLYBANVECHUYENBAYDataSet7.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QUANLYBANVECHUYENBAYDataSet7.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Ve.cs" />
+    <EmbeddedResource Include="FormMain.resx">
+      <DependentUpon>FormMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmBaoCao.resx">
+      <DependentUpon>FrmBaoCao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmCalendar.resx">
+      <DependentUpon>FrmCalendar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmDoiMatKhau.resx">
+      <DependentUpon>FrmDoiMatKhau.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmLoading.resx">
+      <DependentUpon>FrmLoading.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmLogin.resx">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmQuanLyNhanSu.resx">
+      <DependentUpon>FrmQuanLyNhanSu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmQuyDinh.resx">
+      <DependentUpon>FrmQuyDinh.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmLichChuyenBay.resx">
+      <DependentUpon>FrmLichChuyenBay.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmDatCho.resx">
+      <DependentUpon>FrmDatCho.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmSuaThongTinNhanVien.resx">
+      <DependentUpon>FrmSuaThongTinNhanVien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmThemNhanVien.resx">
+      <DependentUpon>FrmThemNhanVien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmThemSanBayTrungGian.resx">
+      <DependentUpon>FrmThemSanBayTrungGian.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmThongTinDatVe.resx">
+      <DependentUpon>FrmThongTinDatVe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmTraCuu.resx">
+      <DependentUpon>FrmTraCuu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="QUANLYBANVECHUYENBAYDataSet.xsc">
+      <DependentUpon>QUANLYBANVECHUYENBAYDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="QUANLYBANVECHUYENBAYDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>QUANLYBANVECHUYENBAYDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="QUANLYBANVECHUYENBAYDataSet.xss">
+      <DependentUpon>QUANLYBANVECHUYENBAYDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="QUANLYBANVECHUYENBAYDataSet1.xsc">
+      <DependentUpon>QUANLYBANVECHUYENBAYDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="QUANLYBANVECHUYENBAYDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>QUANLYBANVECHUYENBAYDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="QUANLYBANVECHUYENBAYDataSet1.xss">
+      <DependentUpon>QUANLYBANVECHUYENBAYDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="QUANLYBANVECHUYENBAYDataSet2.xsc">
+      <DependentUpon>QUANLYBANVECHUYENBAYDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="QUANLYBANVECHUYENBAYDataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>QUANLYBANVECHUYENBAYDataSet2.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="QUANLYBANVECHUYENBAYDataSet2.xss">
+      <DependentUpon>QUANLYBANVECHUYENBAYDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="QUANLYBANVECHUYENBAYDataSet3.xsc">
+      <DependentUpon>QUANLYBANVECHUYENBAYDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="QUANLYBANVECHUYENBAYDataSet3.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>QUANLYBANVECHUYENBAYDataSet3.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="QUANLYBANVECHUYENBAYDataSet3.xss">
+      <DependentUpon>QUANLYBANVECHUYENBAYDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="QUANLYBANVECHUYENBAYDataSet4.xsc">
+      <DependentUpon>QUANLYBANVECHUYENBAYDataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="QUANLYBANVECHUYENBAYDataSet4.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>QUANLYBANVECHUYENBAYDataSet4.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="QUANLYBANVECHUYENBAYDataSet4.xss">
+      <DependentUpon>QUANLYBANVECHUYENBAYDataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="QUANLYBANVECHUYENBAYDataSet5.xsc">
+      <DependentUpon>QUANLYBANVECHUYENBAYDataSet5.xsd</DependentUpon>
+    </None>
+    <None Include="QUANLYBANVECHUYENBAYDataSet5.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>QUANLYBANVECHUYENBAYDataSet5.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="QUANLYBANVECHUYENBAYDataSet5.xss">
+      <DependentUpon>QUANLYBANVECHUYENBAYDataSet5.xsd</DependentUpon>
+    </None>
+    <None Include="QUANLYBANVECHUYENBAYDataSet6.xsc">
+      <DependentUpon>QUANLYBANVECHUYENBAYDataSet6.xsd</DependentUpon>
+    </None>
+    <None Include="QUANLYBANVECHUYENBAYDataSet6.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>QUANLYBANVECHUYENBAYDataSet6.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="QUANLYBANVECHUYENBAYDataSet6.xss">
+      <DependentUpon>QUANLYBANVECHUYENBAYDataSet6.xsd</DependentUpon>
+    </None>
+    <None Include="QUANLYBANVECHUYENBAYDataSet7.xsc">
+      <DependentUpon>QUANLYBANVECHUYENBAYDataSet7.xsd</DependentUpon>
+    </None>
+    <None Include="QUANLYBANVECHUYENBAYDataSet7.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>QUANLYBANVECHUYENBAYDataSet7.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="QUANLYBANVECHUYENBAYDataSet7.xss">
+      <DependentUpon>QUANLYBANVECHUYENBAYDataSet7.xsd</DependentUpon>
+    </None>
+    <None Include="Resources\icon_facebook.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon_google.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Plane.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Plane1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rose.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Icon_ID.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Icon_ID1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Icon_Name.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Icon_CMND.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Icon_PhoneNumber.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Icon_IDPlane.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Icon_SanBayDi.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Icon_SanBayDen.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Icon_Status.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Icon_Rank.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\calendar-check-regular.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Icon_Cost.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Icon_IDPlane1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Icon_IDPlane2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LogoApp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Icon_Name1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Icon_Pass.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Icon_gmail.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Icon_Back.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Icon_Plus.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Icon_Plus1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-plus-32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-plus-25.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-plus-24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\calendar-check-regular1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\planeAPP.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TicketPlane.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Icon_Dashboard.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-dashboard-40.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-airplane-mode-on-40.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-read-40.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-airport-40.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-view-40.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-gear-40.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-accounting-40.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-about-40.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-admin-settings-male-40.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-add-new-40.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-add-property-40.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-airport-401.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-analyze-40.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-airport-35.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-add-property-35.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-analyze-35.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-gear-35.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-profit-report-40.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-about-35.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-admin-settings-male-35.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-admin-settings-male-401.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\planeAPP1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\flight.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\flightcenter.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\planecenter.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-back-40.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logout.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
